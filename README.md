@@ -2,7 +2,7 @@
 
 ## A proof of concept for my project at BITS Pilani
 
-This is a smart contract built on the Ethereum Blockchain for basic supply chain management and servers as a proof of concept. This is can be extended to be implemneted on a custom blockchain (for example using Hyperledger) or the smart contract can be further enriched with custom features (for example adding a frontend), as Ethereum is moving to PoS system and gas fees are going to be reduced drastically!
+This is a smart contract built on the Ethereum Blockchain for basic supply chain management and serves as a proof of concept. This is can be extended to be implemneted on a custom blockchain (for example using Hyperledger) or the smart contract can be further enriched with custom features (for example adding a frontend), as Ethereum is moving to PoS system and gas fees are going to be reduced drastically!
 
 ## Features
 
